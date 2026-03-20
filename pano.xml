@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="21010" start="node1" appversion="7.1.11">
+  <panorama hideabout="1" id="node1">
+    <input levelbias="0.400" levelingroll="0" width="3749" height="3749" leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" preload="0" width="3749" height="3749"/>
+      <level predecode="0" preload="0" width="1874" height="1874"/>
+      <level predecode="0" preload="0" width="937" height="937"/>
+      <level predecode="1" preload="1" width="468" height="468"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="110.93" projection="4" tilt="-37.43" pan="-0.4"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="111.57" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata longitude="83.089014" author="" heading="0" copyright="" comment="" nodeid="node1" info="" source="" tags="" datetime="01.01.1970 0:00" latitude="55.184123" altitude="695.00" description="" title="Вид 1" customnodeid=""/>
+    <hotspots wordwrap="0" width="210" height="20" smoothmovement="0">
+      <label wordwrap="0" border="0" width="210" height="20" backgroundalpha="1" textcolor="0x000000" borderalpha="1" borderradius="15" textalpha="1" backgroundcolor="0xf5edd6" background="1" bordercolor="0x000000" enabled="1"/>
+      <polystyle backgroundcolor="0x00aa00" mode="1" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x00aa00"/>
+      <hotspot fov="10" url="{node3}" customimage="media/image-1.png" customimageheight="46" skinid="ht_node" use3D="0" id="Point01" tilt="1.86" customimagewidth="100" pan="-333.24" description="" target="$fwd" title="Вид 1" distance3D="571.503" distance="659.524"/>
+      <hotspot fov="10" url="{node2}" customimage="media/image.png" customimageheight="46" skinid="ht_node" use3D="0" id="Point02" tilt="2.54" customimagewidth="100" pan="-15.17" description="" target="$fwd" title="Вид 2" distance3D="571.503" distance="660.351"/>
+      <polyhotspot url="https://domgis.ru/catalog-object/48455" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x00aa00" id="Poly01" description="" target="_top" title="ул. Молодёжная, участок №55" bordercolor="0x00aa00">
+        <polystring>-6.91/-29.98|-7.39/-29.17|-8.66/-29.3|-8.25/-30.11</polystring>
+      </polyhotspot>
+      <polyhotspot url="" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x00aa00" id="Poly02" description="" target="_blank" title="ул. Молодёжная, участок №53" bordercolor="0x00aa00">
+        <polystring>-8.79/-29.31|-10.05/-29.42|-9.64/-30.23|-8.35/-30.12</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly03" description="" target="_blank" title="ул. Молодёжная, участок №51">
+        <polystring>-11.42/-29.52|-11.09/-30.34|-9.76/-30.24|-10.16/-29.43</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly04" description="" target="_blank" title="ул. Молодёжная, участок №49">
+        <polystring>-12.79/-29.61|-12.51/-30.44|-11.21/-30.35|-11.53/-29.53</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly05" description="" target="_blank" title="ул. Молодёжная, участок №47">
+        <polystring>-14.13/-29.67|-13.9/-30.49|-12.62/-30.44|-12.91/-29.62</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly06" description="" target="_blank" title="ул. Молодёжная, участок №45">
+        <polystring>-15.46/-29.73|-15.29/-30.57|-14.69/-30.54|-14.01/-30.5|-14.24/-29.68</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly07" description="" target="_blank" title="ул. Молодёжная, участок №43">
+        <polystring>-16.8/-29.76|-16.68/-30.59|-15.4/-30.56|-15.57/-29.74</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly08" description="" target="_blank" title="ул. Молодёжная, участок №41">
+        <polystring>-18.12/-29.77|-18.06/-30.61|-16.81/-30.6|-16.93/-29.77</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly09" description="" target="_blank" title="ул. Молодёжная, участок №39">
+        <polystring>-19.46/-29.76|-19.44/-30.61|-18.17/-30.61|-18.24/-29.77</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly10" description="" target="_blank" title="ул. Молодёжная, участок №37">
+        <polystring>-19.57/-29.75|-19.55/-30.61|-20.84/-30.57|-20.77/-29.72</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly11" description="" target="_blank" title="ул. Молодёжная, участок №35">
+        <polystring>-20.9/-29.71|-20.95/-30.57|-22.08/-30.56|-22.03/-29.68</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly12" description="" target="_blank" title="ул. Молодёжная, участок №33">
+        <polystring>-22.87/-29.63|-23.1/-30.97|-24.38/-30.73|-24.13/-29.53</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly13" description="" target="_blank" title="ул. Молодёжная, участок №31">
+        <polystring>-24.25/-29.52|-24.51/-30.72|-24.83/-30.64|-25.79/-30.71|-25.48/-29.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly14" description="" target="_blank" title="ул. Молодёжная, участок №29">
+        <polystring>-25.6/-29.4|-25.79/-30.2|-27.06/-30.11|-26.85/-29.27</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly15" description="" target="_blank" title="ул. Молодёжная, участок №27">
+        <polystring>-27.08/-30.18|-27.25/-30.68|-27.67/-30.65|-27.82/-31.1|-27.8/-31.11|-26.63/-30.74|-25.9/-30.7|-25.81/-30.28</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly16" description="" target="_blank" title="ул. Молодёжная, участок №25">
+        <polystring>-27.79/-30.64|-28.21/-30.61|-28.08/-30.27|-29.29/-30.14|-29.56/-30.83|-27.96/-31.09</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly17" description="" target="_blank" title="ул. Молодёжная, участок №23">
+        <polystring>-27.73/-29.18|-28.88/-29.07|-28.97/-29.28|-29.23/-30.08|-28.05/-30.2|-27.79/-29.37</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly18" description="" target="_blank" title="ул. Молодёжная, участок №21">
+        <polystring>-28.97/-29.06|-30.12/-28.96|-30.24/-29.16|-30.53/-29.9|-29.33/-30.06|-29.07/-29.28</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly19" description="" target="_blank" title="ул. Молодёжная, участок №19">
+        <polystring>-31.36/-28.81|-31.78/-29.71|-30.63/-29.89|-30.34/-29.13|-30.21/-28.95</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly20" description="" target="_blank" title="ул. Молодёжная, участок №17">
+        <polystring>-32.58/-28.66|-33.09/-29.53|-31.91/-29.7|-31.46/-28.8</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly21" description="" target="_blank" title="ул. Молодёжная, участок №15">
+        <polystring>-33.81/-28.49|-34.34/-29.33|-33.18/-29.52|-32.72/-28.65</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly22" description="" target="_blank" title="ул. Молодёжная, участок №13">
+        <polystring>-35.08/-28.29|-35.62/-29.13|-34.45/-29.33|-33.96/-28.47</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly23" description="" target="_blank" title="ул. Молодёжная, участок №11">
+        <polystring>-36.28/-28.1|-36.89/-28.92|-35.73/-29.11|-35.18/-28.28</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly24" description="" target="_blank" title="ул. Молодёжная, участок №9">
+        <polystring>-36.41/-28.08|-37.03/-28.89|-38.18/-28.68|-37.55/-27.89</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly25" description="" target="_blank" title="ул. Молодёжная, участок №7">
+        <polystring>-38.76/-27.68|-39.44/-28.45|-38.29/-28.66|-37.64/-27.87</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly26" description="" target="_blank" title="ул. Молодёжная, участок №5">
+        <polystring>-40.01/-27.46|-40.74/-28.21|-39.57/-28.43|-38.87/-27.67</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly27" description="" target="_blank" title="ул. Молодёжная, участок №3">
+        <polystring>-41.25/-27.23|-42/-27.97|-40.86/-28.19|-40.1/-27.44</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly28" description="" target="_blank" title="ул. Молодёжная, участок №1">
+        <polystring>-43.2/-26.85|-43.49/-27.69|-42.13/-27.95|-41.35/-27.21</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly29" description="" target="_blank" title="ул. Ягодная, участок №22">
+        <polystring>-29.36/-30.12|-30.56/-29.97|-30.99/-30.86|-30.31/-30.95|-29.65/-30.83</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly30" description="" target="_blank" title="ул. Ягодная, участок №20">
+        <polystring>-31.84/-29.77|-32.33/-30.68|-31.11/-30.84|-30.66/-29.95</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly31" description="" target="_blank" title="ул. Ягодная, участок №18">
+        <polystring>-33.14/-29.58|-33.66/-30.5|-33.2/-30.58|-32.46/-30.67|-31.97/-29.76</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly32" description="" target="_blank" title="ул. Ягодная, участок №16">
+        <polystring>-34.39/-29.39|-35/-30.3|-33.8/-30.49|-33.24/-29.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly33" description="" target="_blank" title="ул. Ягодная, участок №14">
+        <polystring>-35.69/-29.18|-36.32/-30.08|-35.11/-30.28|-34.52/-29.38</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly34" description="" target="_blank" title="ул. Ягодная, участок №12">
+        <polystring>-36.95/-28.97|-37.63/-29.84|-36.43/-30.07|-35.81/-29.16</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly35" description="" target="_blank" title="ул. Ягодная, участок №10">
+        <polystring>-38.2/-28.74|-38.94/-29.59|-38.28/-29.72|-37.75/-29.82|-37.06/-28.95</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly36" description="" target="_blank" title="ул. Ягодная, участок №8">
+        <polystring>-39.48/-28.5|-40.27/-29.36|-39.07/-29.58|-38.35/-28.71</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly37" description="" target="_blank" title="ул. Ягодная, участок №6">
+        <polystring>-40.77/-28.27|-41.57/-29.09|-40.39/-29.33|-39.62/-28.49</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly38" description="" target="_blank" title="ул. Ягодная, участок №4">
+        <polystring>-42.05/-28.02|-42.88/-28.84|-41.69/-29.07|-40.89/-28.25</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly39" description="" target="_blank" title="ул. Ягодная, участок №2">
+        <polystring>-43.5/-27.75|-43.82/-28.66|-43/-28.81|-42.17/-28.01</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly40" description="" target="_blank" title="ул. Молодёжная, участок №58">
+        <polystring>-7.99/-28.06|-7.59/-28.8|-8.87/-28.93|-9.25/-28.18</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly41" description="" target="_blank" title="ул. Молодёжная, участок №56">
+        <polystring>-9.36/-28.18|-8.98/-28.93|-10.21/-29.04|-10.53/-28.28</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly42" description="" target="_blank" title="ул. Молодёжная, участок №54">
+        <polystring>-10.65/-28.28|-10.34/-29.05|-11.58/-29.14|-11.82/-28.36</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly43" description="" target="_blank" title="ул. Молодёжная, участок №52">
+        <polystring>-11.95/-28.37|-11.71/-29.15|-12.89/-29.22|-13.1/-28.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly44" description="" target="_blank" title="ул. Молодёжная, участок №50">
+        <polystring>-13.22/-28.42|-13/-29.23|-14.23/-29.27|-14.38/-28.46</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly45" description="" target="_blank" title="ул. Молодёжная, участок №48">
+        <polystring>-14.51/-28.47|-15.65/-28.49|-15.52/-29.32|-14.35/-29.28</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly46" description="" target="_blank" title="ул. Молодёжная, участок №46">
+        <polystring>-15.77/-28.48|-16.92/-28.49|-16.86/-29.35|-15.66/-29.33</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly47" description="" target="_blank" title="ул. Молодёжная, участок №44">
+        <polystring>-17.04/-28.48|-18.14/-28.49|-18.14/-29.34|-16.98/-29.35</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly48" description="" target="_blank" title="ул. Молодёжная, участок №42">
+        <polystring>-18.26/-28.47|-19.4/-28.44|-19.46/-29.33|-18.24/-29.34</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly49" description="" target="_blank" title="ул. Молодёжная, участок №40">
+        <polystring>-19.51/-28.43|-20.63/-28.4|-20.73/-29.31|-19.58/-29.33</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly50" description="" target="_blank" title="ул. Молодёжная, участок №38">
+        <polystring>-20.75/-28.39|-21.8/-28.35|-21.94/-29.25|-20.85/-29.3</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly51" description="" target="_blank" title="ул. Молодёжная, участок №36">
+        <polystring>-22.64/-28.3|-23.78/-28.22|-24/-29.1|-22.82/-29.19</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly52" description="" target="_blank" title="ул. Молодёжная, участок №34">
+        <polystring>-23.88/-28.22|-25.02/-28.14|-25.17/-28.65|-25.33/-28.99|-24.12/-29.08|-23.97/-28.63</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly53" description="" target="_blank" title="ул. Молодёжная, участок №32">
+        <polystring>-26.25/-28.04|-26.42/-28.56|-26.6/-28.87|-25.44/-28.97|-25.25/-28.57|-25.14/-28.13</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly54" description="" target="_blank" title="ул. Молодёжная, участок №30">
+        <polystring>-27.51/-27.93|-27.7/-28.48|-27.83/-28.75|-26.7/-28.86|-26.53/-28.55|-26.35/-28.04</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly55" description="" target="_blank" title="ул. Молодёжная, участок №28">
+        <polystring>-28.74/-27.82|-29.1/-28.62|-27.95/-28.74|-27.6/-27.93</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly56" description="" target="_blank" title="ул. Молодёжная, участок №26">
+        <polystring>-29.99/-27.7|-30.36/-28.49|-29.21/-28.61|-28.88/-27.81</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly57" description="" target="_blank" title="ул. Молодёжная, участок №24">
+        <polystring>-30.09/-27.69|-31.18/-27.57|-31.6/-28.34|-30.47/-28.48</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly58" description="" target="_blank" title="ул. Молодёжная, участок №22">
+        <polystring>-31.31/-27.55|-32.43/-27.43|-32.9/-28.19|-31.73/-28.33</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly59" description="" target="_blank" title="ул. Молодёжная, участок №20">
+        <polystring>-33.42/-27.29|-33.92/-28.03|-33/-28.17|-32.54/-27.41</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly60" description="" target="_blank" title="ул. Молодёжная, участок №18">
+        <polystring>-34.42/-27.15|-34.97/-27.88|-34.03/-28.02|-33.52/-27.27</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly61" description="" target="_blank" title="ул. Молодёжная, участок №16">
+        <polystring>-35.43/-26.99|-35.99/-27.73|-35.08/-27.87|-34.56/-27.13</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly62" description="" target="_blank" title="ул. Молодёжная, участок №14">
+        <polystring>-36.44/-26.84|-37.02/-27.56|-36.1/-27.71|-35.56/-26.98</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly63" description="" target="_blank" title="ул. Молодёжная, участок №12">
+        <polystring>-37.44/-26.67|-38.05/-27.39|-37.16/-27.54|-36.56/-26.82</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly64" description="" target="_blank" title="ул. Молодёжная, участок №10">
+        <polystring>-38.44/-26.5|-39.1/-27.22|-38.17/-27.37|-37.57/-26.65</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly65" description="" target="_blank" title="ул. Молодёжная, участок №8">
+        <polystring>-39.45/-26.32|-40.13/-27.03|-39.2/-27.2|-38.57/-26.48</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly66" description="" target="_blank" title="ул. Молодёжная, участок №6">
+        <polystring>-40.47/-26.12|-41.17/-26.83|-40.25/-27.01|-39.56/-26.3|-40.45/-26.13</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly67" description="" target="_blank" title="ул. Молодёжная, участок №4">
+        <polystring>-41.44/-25.94|-42.19/-26.64|-41.28/-26.81|-40.58/-26.11</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly68" description="" target="_blank" title="ул. Молодёжная, участок №2">
+        <polystring>-42.79/-25.67|-43.04/-26.48|-42.3/-26.63|-41.57/-25.92</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly69" description="" target="_blank" title="ул. Кленовая, участок №57">
+        <polystring>-8.43/-27.3|-9.59/-27.39|-9.27/-28.1|-8.06/-27.99</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly70" description="" target="_blank" title="ул. Кленовая, участок №55">
+        <polystring>-9.72/-27.4|-10.83/-27.47|-10.55/-28.2|-9.39/-28.11</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly71" description="" target="_blank" title="ул. Кленовая, участок №53">
+        <polystring>-10.96/-27.47|-12.08/-27.53|-11.84/-28.29|-10.69/-28.21</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly72" description="" target="_blank" title="ул. Кленовая, участок №51">
+        <polystring>-12.2/-27.52|-13.29/-27.57|-13.12/-28.35|-11.97/-28.3</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly73" description="" target="_blank" title="ул. Кленовая, участок №49">
+        <polystring>-13.43/-27.57|-14.54/-27.6|-14.41/-28.39|-13.23/-28.35</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly74" description="" target="_blank" title="ул. Кленовая, участок №47">
+        <polystring>-14.65/-27.59|-15.75/-27.6|-15.67/-28.41|-14.52/-28.39</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly75" description="" target="_blank" title="ул. Кленовая, участок №45">
+        <polystring>-15.88/-27.59|-16.98/-27.6|-16.92/-28.41|-15.78/-28.4</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly76" description="" target="_blank" title="ул. Кленовая, участок №43">
+        <polystring>-17.09/-27.6|-18.15/-27.59|-18.14/-28.4|-17.05/-28.4</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly77" description="" target="_blank" title="ул. Кленовая, участок №41">
+        <polystring>-18.27/-27.58|-19.37/-27.55|-19.4/-28.35|-18.28/-28.39</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly78" description="" target="_blank" title="ул. Кленовая, участок №39">
+        <polystring>-19.5/-27.54|-20.58/-27.51|-20.62/-28.31|-19.52/-28.35</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly79" description="" target="_blank" title="ул. Кленовая, участок №37">
+        <polystring>-21.69/-27.45|-21.8/-28.26|-20.74/-28.3|-20.67/-27.5</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly80" description="" target="_blank" title="ул. Кленовая, участок №35">
+        <polystring>-22.51/-27.41|-23.6/-27.35|-23.76/-28.14|-22.63/-28.22</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly81" description="" target="_blank" title="ул. Кленовая, участок №33">
+        <polystring>-23.71/-27.34|-24.82/-27.27|-25/-28.07|-23.87/-28.14</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly82" description="" target="_blank" title="ул. Кленовая, участок №31">
+        <polystring>-24.93/-27.26|-25.99/-27.19|-26.24/-27.98|-25.13/-28.06</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly83" description="" target="_blank" title="ул. Кленовая, участок №29">
+        <polystring>-26.12/-27.17|-27.2/-27.08|-27.47/-27.87|-26.35/-27.97</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly84" description="" target="_blank" title="ул. Кленовая, участок №27">
+        <polystring>-28.4/-26.98|-28.71/-27.75|-27.59/-27.86|-27.33/-27.08</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly85" description="" target="_blank" title="ул. Кленовая, участок №25">
+        <polystring>-28.51/-26.96|-29.57/-26.87|-29.95/-27.62|-28.82/-27.73</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly86" description="" target="_blank" title="ул. Кленовая, участок №23">
+        <polystring>-29.7/-26.85|-30.75/-26.74|-31.17/-27.48|-30.06/-27.62</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly87" description="" target="_blank" title="ул. Кленовая, участок №21">
+        <polystring>-30.87/-26.74|-31.94/-26.61|-32.38/-27.34|-31.26/-27.48</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly88" description="" target="_blank" title="ул. Кленовая, участок №19">
+        <polystring>-32.06/-26.59|-32.92/-26.5|-33.38/-27.21|-32.49/-27.33</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly89" description="" target="_blank" title="ул. Кленовая, участок №17">
+        <polystring>-33.04/-26.48|-33.88/-26.37|-34.39/-27.08|-33.49/-27.2</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly90" description="" target="_blank" title="ул. Кленовая, участок №15">
+        <polystring>-34.01/-26.36|-34.84/-26.24|-35.39/-26.93|-34.5/-27.07</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly91" description="" target="_blank" title="ул. Кленовая, участок №13">
+        <polystring>-34.99/-26.22|-35.85/-26.09|-36.38/-26.77|-35.5/-26.91</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly92" description="" target="_blank" title="ул. Кленовая, участок №11">
+        <polystring>-35.96/-26.06|-36.79/-25.93|-37.41/-26.61|-36.52/-26.75</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly93" description="" target="_blank" title="ул. Кленовая, участок №9">
+        <polystring>-36.92/-25.9|-37.77/-25.76|-38.4/-26.44|-37.52/-26.58</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly94" description="" target="_blank" title="ул. Кленовая, участок №7">
+        <polystring>-37.91/-25.74|-38.77/-25.59|-39.4/-26.25|-38.5/-26.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly95" description="" target="_blank" title="ул. Кленовая, участок №5">
+        <polystring>-39.75/-25.41|-40.43/-26.07|-39.52/-26.24|-38.88/-25.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly96" description="" target="_blank" title="ул. Кленовая, участок №3">
+        <polystring>-40.72/-25.23|-41.38/-25.88|-40.55/-26.05|-39.88/-25.38</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly97" description="" target="_blank" title="ул. Кленовая, участок №1">
+        <polystring>-42.51/-24.88|-42.77/-25.61|-41.51/-25.87|-40.83/-25.21</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly98" description="" target="_blank" title="ул. Кленовая, участок №56">
+        <polystring>-9.49/-25.04|-9.25/-25.6|-11.41/-25.62|-11.32/-25.41</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly99" description="" target="_blank" title="ул. Кленовая, участок №54">
+        <polystring>-9.22/-25.67|-11.41/-25.69|-11.43/-25.78|-11.33/-26.11|-9.04/-26.05</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly100" description="" target="_blank" title="ул. Кленовая, участок №52">
+        <polystring>-9.01/-26.11|-11.31/-26.19|-11.18/-26.61|-8.83/-26.49</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly101" description="" target="_blank" title="ул. Кленовая, участок 50">
+        <polystring>-8.81/-26.56|-11.13/-26.68|-11/-27.13|-8.59/-26.97</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly102" description="" target="_blank" title="ул. Кленовая, участок №48">
+        <polystring>-11.53/-25.83|-11.82/-26.05|-12.39/-26.03|-12.65/-26|-12.39/-27.18|-11.13/-27.13</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly103" description="" target="_blank" title="ул. Кленовая, участок №46">
+        <polystring>-12.78/-25.99|-14.21/-25.81|-14.58/-26.03|-14.08/-26.32|-13.65/-27.01|-15.01/-27.23|-12.49/-27.18</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly104" description="" target="_blank" title="ул. Кленовая, участок №38">
+        <polystring>-22.33/-26.25|-23.34/-26.16|-23.54/-26.95|-22.45/-27.02</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly105" description="" target="_blank" title="ул. Кленовая, участок №36">
+        <polystring>-23.43/-26.14|-24.46/-26.03|-24.71/-26.87|-23.64/-26.94</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly106" description="" target="_blank" title="ул. Кленовая, участок №34">
+        <polystring>-24.57/-26.01|-25.57/-25.89|-25.89/-26.79|-24.83/-26.87</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly107" description="" target="_blank" title="ул. Кленовая, участок №32">
+        <polystring>-25.69/-25.87|-26.67/-25.75|-27.05/-26.69|-26.01/-26.78</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly108" description="" target="_blank" title="ул. Кленовая, участок №30">
+        <polystring>-26.8/-25.74|-27.77/-25.61|-28.2/-26.59|-27.17/-26.68</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly109" description="" target="_blank" title="ул. Кленовая, участок №28">
+        <polystring>-27.88/-25.59|-28.24/-25.55|-28.61/-25.43|-28.87/-25.46|-29.4/-26.48|-28.33/-26.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly110" description="" target="_blank" title="ул. Кленовая, участок №26">
+        <polystring>-29.02/-25.48|-29.91/-25.67|-30.16/-25.66|-30.55/-26.38|-29.49/-26.48</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly111" description="" target="_blank" title="ул. Кленовая, участок №24">
+        <polystring>-30.27/-25.64|-31.27/-25.53|-31.72/-26.25|-30.66/-26.36</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly112" description="" target="_blank" title="ул. Кленовая, участок №22">
+        <polystring>-31.41/-25.52|-32.23/-25.46|-32.68/-26.14|-31.82/-26.23</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly113" description="" target="_blank" title="ул. Кленовая, участок №20">
+        <polystring>-32.33/-25.44|-33.16/-25.35|-33.62/-26.01|-32.78/-26.12</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly114" description="" target="_blank" title="ул. Кленовая, участок №18">
+        <polystring>-33.29/-25.34|-34.1/-25.25|-34.58/-25.89|-33.72/-25.99</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly115" description="" target="_blank" title="ул. Кленовая, участок №16">
+        <polystring>-34.24/-25.25|-35.06/-25.14|-35.55/-25.73|-34.7/-25.86</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly116" description="" target="_blank" title="ул. Кленовая, участок №14">
+        <polystring>-35.19/-25.12|-36/-25.03|-36.51/-25.59|-35.67/-25.71</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly117" description="" target="_blank" title="ул. Кленовая, участок №12">
+        <polystring>-36.11/-25|-36.95/-24.88|-37.48/-25.44|-36.61/-25.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly118" description="" target="_blank" title="ул. Кленовая, участок №10">
+        <polystring>-37.08/-24.86|-37.88/-24.75|-38.43/-25.27|-37.58/-25.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly119" description="" target="_blank" title="ул. Кленовая, участок №8">
+        <polystring>-38.02/-24.73|-38.86/-24.61|-39.39/-25.1|-38.55/-25.25</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly120" description="" target="_blank" title="ул. Кленовая, участок №6">
+        <polystring>-38.97/-24.58|-39.79/-24.44|-40.37/-24.93|-39.5/-25.08</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly121" description="" target="_blank" title="ул. Кленовая, участок №4">
+        <polystring>-40.75/-24.27|-41.34/-24.74|-40.47/-24.9|-39.94/-24.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly122" description="" target="_blank" title="ул. Кленовая, участок №2">
+        <polystring>-40.89/-24.25|-42.15/-24.01|-42.4/-24.53|-41.46/-24.72</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly123" description="" target="_blank" title="ул. Ягодная, участок №1">
+        <polystring>-43.98/-29.08|-44.32/-29.95|-42.89/-30.25|-42.08/-29.46</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly124" description="" target="_blank" title="ул. Ягодная, участок №3">
+        <polystring>-41.94/-29.48|-42.73/-30.27|-41.52/-30.52|-40.77/-29.72</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly125" description="" target="_blank" title="ул. Ягодная, участок №5">
+        <polystring>-40.65/-29.75|-41.39/-30.55|-40.15/-30.79|-39.42/-29.97</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly126" description="" target="_blank" title="ул. Ягодная, участок №7">
+        <polystring>-38.08/-30.22|-39.29/-30|-40.02/-30.82|-38.79/-31.05</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly127" description="" target="_blank" title="ул. Ягодная, участок №9">
+        <polystring>-36.76/-30.47|-37.98/-30.25|-38.64/-31.07|-37.4/-31.3</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly128" description="" target="_blank" title="ул. Ягодная, участок №11">
+        <polystring>-35.45/-30.69|-36.61/-30.5|-37.28/-31.32|-36.06/-31.52</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly129" description="" target="_blank" title="ул. Ягодная, участок №13">
+        <polystring>-34.08/-30.89|-35.31/-30.72|-35.92/-31.55|-34.66/-31.74</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly130" description="" target="_blank" title="ул. Ягодная, участок №15">
+        <polystring>-32.73/-31.09|-33.96/-30.92|-34.53/-31.76|-33.26/-31.93</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly131" description="" target="_blank" title="ул. Ягодная, участок №17">
+        <polystring>-32.57/-31.1|-33.12/-31.94|-32.04/-32.08|-31.78/-31.65|-31.24/-31.27</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly132" description="" target="_blank" title="ул. Менделеева, участок №2">
+        <polystring>-44.36/-30.03|-44.7/-30.97|-43.8/-31.17|-42.94/-30.32</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly133" description="" target="_blank" title="ул. Менделеева, участок №4">
+        <polystring>-42.8/-30.34|-43.66/-31.2|-42.41/-31.47|-41.59/-30.59</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly134" description="" target="_blank" title="ул. Менделеева, участок №6">
+        <polystring>-41.46/-30.61|-42.29/-31.49|-41.01/-31.76|-40.23/-30.86</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly135" description="" target="_blank" title="ул. Менделеева, участок №8">
+        <polystring>-40.07/-30.89|-40.87/-31.78|-39.63/-32.04|-38.84/-31.12</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly136" description="" target="_blank" title="ул. Менделеева, участок №10">
+        <polystring>-38.7/-31.14|-39.49/-32.07|-38.21/-32.3|-37.48/-31.36</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly137" description="" target="_blank" title="ул. Менделеева, участок №12">
+        <polystring>-37.34/-31.39|-38.07/-32.32|-36.83/-32.54|-36.12/-31.59</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly138" description="" target="_blank" title="ул. Менделеева, участок №14">
+        <polystring>-34.73/-31.81|-35.98/-31.62|-36.69/-32.56|-35.39/-32.78</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly139" description="" target="_blank" title="ул. Менделеева, участок №16">
+        <polystring>-34.6/-31.82|-35.25/-32.79|-34.95/-32.85|-33.95/-33|-33.31/-32.01</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly140" description="" target="_blank" title="ул. Менделеева, участок №18">
+        <polystring>-33.18/-32.02|-33.82/-33.01|-32.36/-33.21|-32.33/-33.14|-32.88/-32.95|-32.1/-32.16</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly141" description="" target="_blank" title="ул. Менделеева, участок №1">
+        <polystring>-44.96/-31.44|-45.39/-32.37|-43.78/-32.74|-42.9/-31.87</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly142" description="" target="_blank" title="ул. Менделеева, участок №3">
+        <polystring>-42.77/-31.9|-43.65/-32.76|-42.29/-33.05|-41.46/-32.17</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly143" description="" target="_blank" title="ул. Менделеева, участок №5">
+        <polystring>-41.34/-32.19|-42.17/-33.08|-40.8/-33.37|-40.06/-32.45</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly144" description="" target="_blank" title="ул. Менделеева, участок №7">
+        <polystring>-39.93/-32.48|-40.69/-33.39|-39.32/-33.67|-38.63/-32.74</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly145" description="" target="_blank" title="ул. Менделеева, участок №9">
+        <polystring>-38.52/-32.76|-39.19/-33.7|-37.82/-33.96|-37.18/-33.01</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly146" description="" target="_blank" title="ул. Менделеева, участок №11">
+        <polystring>-37.07/-33.04|-37.7/-33.99|-36.3/-34.23|-35.75/-33.27</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly147" description="" target="_blank" title="ул. Менделеева, участок №13">
+        <polystring>-35.61/-33.28|-36.17/-34.25|-34.74/-34.49|-34.28/-33.52</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly148" description="" target="_blank" title="ул. Менделеева, участок №15">
+        <polystring>-34.13/-33.54|-34.62/-34.51|-33.2/-34.72|-32.79/-33.74</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly149" description="" target="_blank" title="ул. Менделеева, участок №17">
+        <polystring>-32.66/-33.75|-33.07/-34.73|-31.61/-34.92|-31.25/-33.95</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly150" description="" target="_blank" title="ул. Менделеева, участок №19">
+        <polystring>-29.05/-34.2|-31.12/-33.97|-31.47/-34.93|-29.33/-35.15</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly151" description="" target="_blank" title="№410">
+        <polystring>-45.41/-32.45|-45.84/-33.41|-44.76/-33.66|-43.86/-32.81</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly152" description="" target="_blank" title="№409">
+        <polystring>-43.71/-32.84|-44.65/-33.7|-43.22/-34.04|-42.38/-33.12</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly153" description="" target="_blank" title="№408">
+        <polystring>-42.24/-33.15|-43.09/-34.08|-41.66/-34.4|-40.86/-33.44</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly154" description="" target="_blank" title="№407">
+        <polystring>-39.38/-33.74|-40.74/-33.46|-41.51/-34.44|-40.09/-34.73</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly155" description="" target="_blank" title="№406">
+        <polystring>-37.87/-34.04|-39.25/-33.77|-39.97/-34.77|-38.52/-35.06</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly156" description="" target="_blank" title="№405">
+        <polystring>-36.36/-34.31|-36.91/-35.34|-38.38/-35.08|-37.72/-34.07</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly157" description="" target="_blank" title="№404">
+        <polystring>-36.2/-34.33|-36.77/-35.38|-35.29/-35.63|-34.76/-34.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly158" description="" target="_blank" title="№403">
+        <polystring>-34.66/-34.59|-35.18/-35.64|-33.69/-35.84|-33.24/-34.8</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly159" description="" target="_blank" title="№402">
+        <polystring>-33.1/-34.82|-33.54/-35.86|-32.04/-36.04|-31.62/-35</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly160" description="" target="_blank" title="№401">
+        <polystring>-29.35/-35.24|-31.5/-35.02|-31.88/-36.05|-29.68/-36.23</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomin="0" zoomout="0" zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomfov="40" type="diptocolor" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" rubberband="0" invertcontrol="1" speedwheel="1" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="0" contextprojections="1" simulatemass="1" sensitivity="8" zoomcentercursor="1" dblclickfullscreen="1" lockedmouse="0" hideabout="1" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelbias="0.400" levelingroll="0" width="2048" height="2048" leveltilesize="510" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="110.93" projection="4" tilt="-52.2" pan="43.12"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="102.55" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata longitude="83.099289" author="" heading="0" copyright="" comment="" nodeid="node2" info="" source="" tags="" datetime="01.01.1970 0:00" latitude="55.185047" altitude="599.00" description="" title="Вид 2" customnodeid=""/>
+    <hotspots wordwrap="0" width="210" height="20" smoothmovement="0">
+      <label wordwrap="0" border="0" width="210" height="20" backgroundalpha="1" textcolor="0x000000" borderalpha="1" borderradius="15" textalpha="1" backgroundcolor="0xf5edd6" background="1" bordercolor="0x000000" enabled="1"/>
+      <polystyle backgroundcolor="0x00aa00" mode="1" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x00aa00"/>
+      <hotspot fov="10" url="{node3}" customimage="media/image.png" customimageheight="46" skinid="ht_node" use3D="0" id="Point01" tilt="2.14" customimagewidth="100" pan="22.7" description="" target="$fwd" title="Вид 3" distance3D="571.503" distance="469"/>
+      <hotspot fov="10" url="{node1}" customimage="media/image.png" customimageheight="46" skinid="ht_node" use3D="0" id="Point02" tilt="1.64" customimagewidth="100" pan="84.91" description="" target="$fwd" title="Вид 1" distance3D="571.503" distance="660.351"/>
+    </hotspots>
+    <media>
+      <image stretch="1.000" fov="35.880" clickmode="0" width="1020" height="1959" roty="-29.690" hidepinned="0" rotz="-127.790" popoutscaling="100" popbackmode="0" id="Element01" tilt="-56.390" rotx="-18.430" pan="-124.030" handcursor="0">
+        <source url="media/   .png"/>
+      </image>
+    </media>
+    <transition softedge="0" enabled="1" zoomin="0" zoomout="0" zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomfov="40" type="diptocolor" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" rubberband="0" invertcontrol="1" speedwheel="1" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="0" contextprojections="1" simulatemass="1" sensitivity="8" zoomcentercursor="1" dblclickfullscreen="1" lockedmouse="0" hideabout="1" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelbias="0.400" levelingroll="0" width="3749" height="3749" leveltilesize="510" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0">
+      <level predecode="0" preload="0" width="3749" height="3749"/>
+      <level predecode="0" preload="0" width="1874" height="1874"/>
+      <level predecode="0" preload="0" width="937" height="937"/>
+      <level predecode="1" preload="1" width="468" height="468"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="110.93" projection="4" tilt="-37.43" pan="-0.4"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="111.57" fovfisheye="360" tilt="90" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata longitude="83.095611" author="" heading="0" copyright="" comment="" nodeid="node3" info="" source="" tags="" datetime="01.01.1970 0:00" latitude="55.188705" altitude="362.00" description="" title="Вид 3" customnodeid=""/>
+    <hotspots wordwrap="0" width="210" height="20" smoothmovement="0">
+      <label wordwrap="0" border="0" width="210" height="20" backgroundalpha="1" textcolor="0x000000" borderalpha="1" borderradius="15" textalpha="1" backgroundcolor="0xf5edd6" background="1" bordercolor="0x000000" enabled="1"/>
+      <polystyle backgroundcolor="0x00aa00" mode="1" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x00aa00"/>
+      <hotspot fov="10" url="{node2}" customimage="media/image.png" customimageheight="46" skinid="ht_node" use3D="0" id="Point01" tilt="1.34" customimagewidth="100" pan="-92.98" description="" target="$fwd" title="Вид 2" distance3D="571.503" distance="469"/>
+      <hotspot fov="10" url="{node1}" customimage="media/image.png" customimageheight="46" skinid="ht_node" use3D="0" id="Point02" tilt="1.86" customimagewidth="100" pan="189.02" description="" target="$fwd" title="Вид 1" distance3D="571.503" distance="659.524"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomin="0" zoomout="0" zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" delay="none" zoomfov="40" type="diptocolor" zoomafterinfov="140" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" rubberband="0" invertcontrol="1" speedwheel="1" invertwheel="1" lockedkeyboard="0" lockedkeyboardzoom="0" contextvr="0" contextprojections="1" simulatemass="1" sensitivity="8" zoomcentercursor="1" dblclickfullscreen="1" lockedmouse="0" hideabout="1" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" description="" copyright="" title="" comment="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
