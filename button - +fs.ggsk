@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.11/21010
 // Filename: button - +fs.ggsk
-// Generated 2026-03-20T17:18:01
+// Generated 2026-03-26T12:30:24
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -145,18 +145,18 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Image   1";
-		el.ggDx=-29;
+		el.ggDx=-35;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='bottom : -21px;';
-		hs+='height : 218px;';
-		hs+='left : calc(50% - ((512px + 0px) / 2) - 29px);';
+		hs+='bottom : -4px;';
+		hs+='height : 119px;';
+		hs+='left : calc(50% - ((260px + 0px) / 2) - 35px);';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
-		hs+='width : 512px;';
+		hs+='width : 260px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -186,19 +186,19 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Button   1";
-		el.ggDx=-167;
+		el.ggDx=-110;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_button ";
 		el.ggType='button';
 		hs ='';
-		hs+='bottom : 35px;';
+		hs+='bottom : 31px;';
 		hs+='cursor : pointer;';
-		hs+='height : 100px;';
-		hs+='left : calc(50% - ((100px + 0px) / 2) - 167px);';
+		hs+='height : 50px;';
+		hs+='left : calc(50% - ((50px + 0px) / 2) - 110px);';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
-		hs+='width : 100px;';
+		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -229,19 +229,19 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Button   2";
-		el.ggDx=-28;
+		el.ggDx=-38;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_button ";
 		el.ggType='button';
 		hs ='';
-		hs+='bottom : 74px;';
+		hs+='bottom : 51px;';
 		hs+='cursor : pointer;';
-		hs+='height : 22px;';
-		hs+='left : calc(50% - ((100px + 0px) / 2) - 28px);';
+		hs+='height : 10px;';
+		hs+='left : calc(50% - ((49px + 0px) / 2) - 38px);';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
-		hs+='width : 100px;';
+		hs+='width : 49px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -288,19 +288,19 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Button   3";
-		el.ggDx=115;
+		el.ggDx=31;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_button ";
 		el.ggType='button';
 		hs ='';
-		hs+='bottom : 38px;';
+		hs+='bottom : 31px;';
 		hs+='cursor : pointer;';
-		hs+='height : 100px;';
-		hs+='left : calc(50% - ((100px + 0px) / 2) + 115px);';
+		hs+='height : 50px;';
+		hs+='left : calc(50% - ((50px + 0px) / 2) + 31px);';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
-		hs+='width : 100px;';
+		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
